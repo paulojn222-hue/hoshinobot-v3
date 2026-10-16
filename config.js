@@ -1,0 +1,8 @@
+module.exports = {
+  PREFIXO: "/",
+  NOME_BOT: "HoshinoBot-MD v2",
+  DONO_PRINCIPAL_NOME: "Moon",
+  DONO_PRINCIPAL_NUMERO: "+55 81 9564-7053",
+  DONO_PRINCIPAL_LID: "199665127579694",
+  API_KEY_BRONXYS: "Simboraaqueroapi"
+};
